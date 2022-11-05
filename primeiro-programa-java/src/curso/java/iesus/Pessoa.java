@@ -7,7 +7,7 @@ public class Pessoa {
 		private String sobrenome;
 		
 		public String getNome() {
-			return nome;
+			return nome; 
 		}
 		
 		public void setNome(String nome) {
