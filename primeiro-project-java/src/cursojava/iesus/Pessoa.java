@@ -6,7 +6,7 @@ public class Pessoa {
 	private String sobrenome;
 	/* This is a coment*/
 	
-	private String nome;
+	private String nomes;
 	
 	private int idade;
 	
