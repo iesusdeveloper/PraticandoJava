@@ -5,6 +5,11 @@ public class Pessoa {
 	
 	private String sobrenome;
 	
+	private int idade;
+	
+	public int getIdade() {
+		return idade;
+	}
 	public String getNome() {
 		return nome; 
 	}
