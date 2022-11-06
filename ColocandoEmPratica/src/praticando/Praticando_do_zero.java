@@ -1,7 +1,7 @@
 package praticando;
 
 public class Praticando_do_zero {
-	/*Variável Global*/
+	/*Variavel Global*/
 	
 	static String nomeAluno = "Iesus";
 	static double nota1 = 8;
